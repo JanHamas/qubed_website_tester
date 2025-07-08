@@ -1,0 +1,15 @@
+✅ https://mail.google.com/mail/?view=cm&fs=1&to=support@qubed.pk | Title: Gmail
+✅ https://pk.linkedin.com/company/qubed-pk | Title: Qubed Hospitality | LinkedIn
+⚠️  Possibly broken: https://qubed.pk/ | Title: Qubed
+⚠️  Possibly broken: https://qubed.pk/about | Title: Qubed
+⚠️  Possibly broken: https://qubed.pk/contact-quebed | Title: Qubed
+❌ https://qubed.pk/quebed-reviews — Timeout 30000ms exceeded.
+⚠️  Possibly broken: https://suite2.qubed.pk/ | Title: Suite 2
+⚠️  Possibly broken: https://vt.qubed.pk/ | Title: Qubed Virtual tour
+❌ https://wa.me/+923001178233 — Page.goto: Timeout 12000ms exceeded.
+Call log:
+  - navigating to "https://wa.me/+923001178233", waiting until "load"
+
+✅ https://www.facebook.com/QUBEDpk | Title: QUBED | Abbottabad | Facebook
+❌ https://www.google.com/maps/dir/?api=1&destination=34.07037601468409,73.39329173956699 — Timeout 30000ms exceeded.
+✅ https://www.instagram.com/qubedpk/?hl=en | Title: Login • Instagram
